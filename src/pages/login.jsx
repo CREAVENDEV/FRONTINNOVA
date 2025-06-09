@@ -55,7 +55,7 @@ export function Log(){
         />
 
         <ReCAPTCHA
-          sitekey="6LeQ81orAAAAAC8-xuk_HO6eSfFJJDzOh1bwCXbM"
+          sitekey="6Lcq9lorAAAAAKSwb3r4iHYT7KRJse2J5LYgW9Bb"
           onChange={onChange}
         />
 
