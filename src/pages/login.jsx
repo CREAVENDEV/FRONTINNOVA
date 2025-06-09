@@ -53,17 +53,17 @@ export function Log(){
           className="w-full bg-zinc-700 text-white px-4 py-2 rounded-md my-2"
           placeholder="Pass"
         />
-       
+
         <ReCAPTCHA
-          sitekey="6LfK4lMrAAAAAElrnGsqvpg4JKae9jZcS7hrMFSA"
+          sitekey="6LeQ81orAAAAAC8-xuk_HO6eSfFJJDzOh1bwCXbM"
           onChange={onChange}
         />
-       
-       
+
         <button
           type="submit"
           className="bg-zinc-700 text-white px-6 py-3 rounded-full text-lg font-medium shadow-md hover:bg-gray-900 active:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-gray-600 mx-25 my-20"
-        >Iniciar
+        >
+          Iniciar
         </button>
       </form>
       <Link to="/">Regresar</Link>
